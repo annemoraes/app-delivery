@@ -19,19 +19,15 @@ Aplicativo desenvolvido em React Native usando TypeScript que permite o cliente 
 ##
 
 <p align="center">
-  
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
     <img width="300px" src=".github/pedidos.png">
   </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;
    <kbd>
     <img width="300px" src=".github/carrinho.png">
   </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <img width="300px"  src=".github/inicial.png">
-  </kbd>
+ &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
