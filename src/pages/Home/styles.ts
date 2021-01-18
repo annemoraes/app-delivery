@@ -4,9 +4,11 @@ export const BackgroundImage = styled.ImageBackground`
   flex: 1;
   padding: 40px 40px 0;
   justify-content: space-around;
+  background: #066C34;
 `;
 
-export const Container = styled.View``;
+export const Container = styled.View`
+`;
 
 export const Title = styled.Text`
   font-style: normal;

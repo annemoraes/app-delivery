@@ -13,7 +13,7 @@ const TabRoutes: React.FC = () => (
   <Tab.Navigator
     tabBarOptions={{
       labelPosition: 'beside-icon',
-      activeTintColor: '#C72828',
+      activeTintColor: '#066C34',
       labelStyle: {
         fontFamily: 'Poppins-Regular',
         fontSize: 12,

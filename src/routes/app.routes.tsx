@@ -56,7 +56,7 @@ const AppRoutes: React.FC = () => (
             fontSize: 16,
           },
           headerStyle: {
-            backgroundColor: '#C72828',
+            backgroundColor: '#066C34',
             elevation: 0,
             borderWidth: 0,
             shadowColor: 'transparent',

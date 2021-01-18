@@ -11,7 +11,7 @@ export const Container = styled.View`
 
 export const Header = styled.View`
   padding: 60px 24px 60px;
-  background: #c72828;
+  background: #066C34;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -57,7 +57,7 @@ export const CategoryItem = styled.TouchableOpacity<CategoryItemProps>`
   ${props =>
     props.isSelected &&
     css`
-      border-color: #c72828;
+      border-color: #066C34;
       background-color: #ffebeb;
     `}
 `;
